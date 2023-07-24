@@ -1,4 +1,4 @@
-** UPDATE TO WORK WITH ROS2 HUMBLE ON UBUNTU22.04**
+**UPDATE TO WORK WITH ROS2 HUMBLE ON UBUNTU22.04**
 
 # Vicon receiver for ROS2 ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/andreacamisa/ros2-vicon-receiver)
 
